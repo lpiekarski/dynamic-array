@@ -1,6 +1,6 @@
 /** @file       dynamic_array.h
     @brief      Dynamic array interface.
-    @author     £ukasz Piekarski <wookashp98@gmail.com>
+    @author     Â£ukasz Piekarski <wookashp98@gmail.com>
     @date       24.07.2018
 */
 
@@ -85,7 +85,6 @@ public:
     size_t size();
 
     /** @brief      Deletes the dynamic array.
-        @remark     __host__ __device__ function.
     */
     ~DynamicArray();
 
